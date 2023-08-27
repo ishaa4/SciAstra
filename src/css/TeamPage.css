@@ -1,0 +1,15 @@
+.team-page-container {
+    padding: 20px;
+    text-align: center;
+    Font-family: Poppins;
+    font-Size: 30px;
+    color: #9010B0;
+    
+}
+
+.card-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 40px;
+}

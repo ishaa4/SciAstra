@@ -1,0 +1,6 @@
+.university-card {
+    color: black;
+    text-align: center;
+    margin: 15px;
+    flex: 0 0 calc(25% - 30px);
+}
